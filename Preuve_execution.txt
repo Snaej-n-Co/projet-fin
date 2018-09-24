@@ -1,0 +1,62 @@
+09-05-2018  11:16:24 contraite : commancement Lecture
+
+09-05-2018  11:16:24 contraite : valeur colone
+09-05-2018  11:16:27 contraite : commancement Lecture
+
+09-05-2018  11:16:27 contraite : commancement Lecture
+
+09-05-2018  11:16:27 contraite : commancement Lecture
+
+09-05-2018  11:16:27 contraite : commancement Lecture
+
+09-05-2018  11:16:27 contraite : commancement Lecture
+
+09-05-2018  11:16:27 contraite :  Les tâches sont représentées par des nombres entiers, à partir de ‘1’ et sans rupture de séquence
+09-05-2018  11:17:24 contraite : commancement Lecture
+
+09-05-2018  11:17:24 contraite : valeur colone
+09-05-2018  11:17:32 contraite : commancement Lecture
+
+09-05-2018  11:17:32 contraite :  Il y a au maximum 1 arc d’un sommet donné vers 1 autre sommet donné (pas de multigraphes) et chaque sommet est décrit au maximum une fois
+09-05-2018  11:17:32 contraite : commancement Lecture
+
+09-05-2018  11:17:32 contraite :  Il y a au maximum 1 arc d’un sommet donné vers 1 autre sommet donné (pas de multigraphes) et chaque sommet est décrit au maximum une fois
+09-05-2018  11:17:32 contraite : commancement Lecture
+
+09-05-2018  11:17:32 contraite :  Il y a au maximum 1 arc d’un sommet donné vers 1 autre sommet donné (pas de multigraphes) et chaque sommet est décrit au maximum une fois
+09-05-2018  11:17:32 contraite : commancement Lecture
+
+09-05-2018  11:17:32 contraite :  Il y a au maximum 1 arc d’un sommet donné vers 1 autre sommet donné (pas de multigraphes) et chaque sommet est décrit au maximum une fois
+09-05-2018  11:17:32 contraite : commancement Lecture
+
+09-05-2018  11:17:32 contraite :  Les tâches sont représentées par des nombres entiers, à partir de ‘1’ et sans rupture de séquence
+22-05-2018  02:27:07 graph : commancement Lecture
+
+22-05-2018  02:27:12 graph : commancement Lecture
+
+22-05-2018  02:27:12 graph :  Aucune erreur de niveuau 1 détectée pour le graphe
+22-05-2018  02:27:12 graph : commancement Lecture
+
+22-05-2018  02:27:12 graph :  Le graphe ne contient qu’un seul point d’entré et un seul point de sortie 
+Tout sommet est accessible depuis le point d’entré 
+Le point de sortie est accessible depuis tous les autres sommets
+22-05-2018  02:27:13 graph : commancement Lecture
+
+22-05-2018  02:27:13 graph :  Aucune erreur de niveuau 1 détectée pour le graphe
+22-05-2018  02:27:13 graph : commancement Lecture
+
+22-05-2018  02:27:13 graph :  Aucune erreur de niveuau 1 détectée pour le graphe
+22-05-2018  02:27:13 graph : commancement Lecture
+
+22-05-2018  02:27:13 graph :  Le graphe ne contient qu’un seul point d’entré et un seul point de sortie 
+Tout sommet est accessible depuis le point d’entré 
+Le point de sortie est accessible depuis tous les autres sommets
+22-05-2018  02:38:57 contraite : commancement Lecture
+
+22-05-2018  02:38:57 contraite : valeur colone
+12-09-2018  04:07:19 contraite : commancement Lecture
+
+12-09-2018  04:07:19 contraite : valeur colone
+12-09-2018  04:07:33 contraite : commancement Lecture
+
+12-09-2018  04:07:33 contraite :  Il y a au maximum 1 arc d’un sommet donné vers 1 autre sommet donné (pas de multigraphes) et chaque sommet est décrit au maximum une fois

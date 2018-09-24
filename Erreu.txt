@@ -1,0 +1,12 @@
+09-05-2018  11:16:27 contraite :  Erreur : il y a deux fois le sommet 2 qui est décrit dans le fichier text type contrainte
+ Erreur : il y a deux fois l'arc du sommet 3 vers le sommet 1 qui est décrit dans le fichier text type contrainte
+09-05-2018  11:16:27 contraite :  Erreur : il y a deux fois le sommet 2 qui est décrit dans le fichier text type contrainte
+ Erreur : il y a deux fois l'arc du sommet 3 vers le sommet 1 qui est décrit dans le fichier text type contrainte
+09-05-2018  11:16:27 contraite :  Erreur : il y a deux fois le sommet 2 qui est décrit dans le fichier text type contrainte
+ Erreur : il y a deux fois l'arc du sommet 3 vers le sommet 1 qui est décrit dans le fichier text type contrainte
+09-05-2018  11:16:27 contraite :  Erreur : il y a deux fois le sommet 2 qui est décrit dans le fichier text type contrainte
+ Erreur : il y a deux fois l'arc du sommet 3 vers le sommet 1 qui est décrit dans le fichier text type contrainte
+22-05-2018  02:27:12 graph :  Erreur : les arcs sortant du sommet 1 n'ont pas le même valeur
+ Erreur : les arcs sortant du sommet 2 ont une valeur négative
+22-05-2018  02:27:13 graph :  Erreur : les arcs sortant du sommet 1 n'ont pas le même valeur
+ Erreur : les arcs sortant du sommet 2 ont une valeur négative
